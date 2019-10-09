@@ -9,6 +9,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "eslint": "^6.5.1",
     "fs": "0.0.1-security",
     "nodemon": "^1.19.3",
     "uuid": "^3.3.2"
